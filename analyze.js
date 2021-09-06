@@ -44,20 +44,22 @@ let CSVWrite = "Repos,";
 for (const lang of languages) {
     CSVWrite += `${lang},`;
 }
-CSVWrite += "\n";
+CSVWrite += "Total,\n";
 
 for (const reponame in langObj) {
+    let totalThisRepo = 0;
     const repolang = langObj[reponame];
     CSVWrite += `${reponame.split("/")[1]},`;
     for (const lang of languages) {
         if (repolang[lang]) {
             CSVWrite += `${repolang[lang].toString()},`;
+            totalThisRepo += repolang[lang];
         }
         else {
             CSVWrite += "0,";
         }
     }
-    CSVWrite += "\n";
+    CSVWrite += `${totalThisRepo},\n`;
 }
 CSVWrite += "Total,";
 

@@ -1,0 +1,23 @@
+{
+  "name": "autolanguagestats",
+  "version": "1.0.0",
+  "description": "Get Summary of Your Language Stats",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node loadData.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leomotors/Auto-Language-Stats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leomotors/Auto-Language-Stats/issues"
+  },
+  "homepage": "https://github.com/Leomotors/Auto-Language-Stats#readme",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}

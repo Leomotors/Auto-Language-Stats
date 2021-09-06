@@ -63,11 +63,13 @@ for (const reponame in langObj) {
 }
 CSVWrite += "Total,";
 
+let totalポイッ = 0;
 for (const lang of sorted) {
     CSVWrite += `${lang[1]},`;
+    totalポイッ += lang[1];
 }
 
-CSVWrite += "\n";
+CSVWrite += `${totalポイッ},\n`;
 
 // console.log(CSVWrite);
 

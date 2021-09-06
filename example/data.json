@@ -1,0 +1,87 @@
+{
+    "Leomotors/AutoLanguageStats": {
+        "JavaScript": 1193
+    },
+    "Leomotors/daily_salim_quote": {
+        "Dart": 9348,
+        "HTML": 3713,
+        "Swift": 404,
+        "Kotlin": 136,
+        "Objective-C": 38
+    },
+    "Leomotors/Discord-Polynomial-Master": {
+        "JavaScript": 12726
+    },
+    "Leomotors/dotfiles": {
+        "Shell": 1578
+    },
+    "Leomotors/Game-That-Has-Snake": {
+        "Python": 6819
+    },
+    "Leomotors/Leomotors": {},
+    "Leomotors/lolilang": {
+        "C": 13603,
+        "Makefile": 767
+    },
+    "Leomotors/Memers": {
+        "Dogescript": 353
+    },
+    "Leomotors/Mini-Vector-Calculator": {
+        "C": 34951
+    },
+    "Leomotors/My-ASCII-Adventure": {
+        "Python": 3638
+    },
+    "Leomotors/NSM2021-SmartWheelChair-Arduino": {
+        "C++": 10614
+    },
+    "Leomotors/NSM2021-SmartWheelChair-MobileApp": {
+        "Dart": 31951,
+        "HTML": 3745,
+        "Swift": 404,
+        "Kotlin": 154,
+        "Objective-C": 38
+    },
+    "Leomotors/Polynomial-Problems-Generator": {
+        "C++": 33793,
+        "Makefile": 682,
+        "Shell": 151
+    },
+    "Leomotors/RTX-2090-TiFy": {
+        "C++": 38496,
+        "CMake": 2011,
+        "Batchfile": 618
+    },
+    "Leomotors/Salim-Bot": {
+        "TypeScript": 40306,
+        "JavaScript": 2234,
+        "Shell": 630,
+        "Python": 104
+    },
+    "Leomotors/salim-quote-delivery": {
+        "TypeScript": 3856,
+        "JavaScript": 1430
+    },
+    "Leomotors/Simple-RLC-Calculator": {
+        "Python": 20196
+    },
+    "Leomotors/THIS-REPO-HAS-9-ISSUES": {
+        "JavaScript": 930
+    },
+    "Leomotors/Wave-Interference-Simulation": {
+        "Python": 4847
+    },
+    "Leomotors/Website-Vector-Calculator": {
+        "TypeScript": 10299,
+        "HTML": 2797,
+        "CSS": 593
+    },
+    "Leomotors/Website-Vector-Calculator-2": {
+        "Svelte": 8330,
+        "TypeScript": 4039,
+        "JavaScript": 3253,
+        "SCSS": 3130,
+        "CSS": 1020,
+        "HTML": 406
+    }
+}

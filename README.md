@@ -2,6 +2,8 @@
 
 Get Summary of Your Language Stats with Analyze (Coming Soon)
 
-Run ```npm run load``` to Load Data from GitHub API (Don't forget to change Username to yours in source code)
+- ```npm run load``` to Load Data from GitHub API (**Don't forget to change Username to yours in loadData.js**)
 
-Run ```npm run anal``` to start analysis
+- ```npm run anal``` to start analysis and save into csv
+
+You can look at example for output csv, I recommend putting it in Excel, convert to xlsx and create table to unlock ability to sort by each language!

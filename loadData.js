@@ -3,7 +3,7 @@
 import fetch from "node-fetch";
 import * as fs from "fs/promises";
 
-// ! Change this if you wanna use on your own account
+// ! IMPORTANT: Change this if you wanna use on your own account
 // ! Only works on public repos
 const Username = "Leomotors";
 

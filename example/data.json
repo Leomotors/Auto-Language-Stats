@@ -1,6 +1,13 @@
 {
     "Leomotors/Auto-Language-Stats": {
-        "JavaScript": 2857
+        "JavaScript": 2868
+    },
+    "Leomotors/Battleship-SIMP": {
+        "Vue": 8692,
+        "JavaScript": 5041,
+        "TypeScript": 3132,
+        "SCSS": 1383,
+        "HTML": 588
     },
     "Leomotors/daily_salim_quote": {
         "Dart": 9348,
@@ -13,7 +20,7 @@
         "JavaScript": 12726
     },
     "Leomotors/dotfiles": {
-        "Shell": 1578
+        "Shell": 1592
     },
     "Leomotors/Game-That-Has-Snake": {
         "Python": 6819
@@ -31,6 +38,12 @@
     },
     "Leomotors/My-ASCII-Adventure": {
         "Python": 3638
+    },
+    "Leomotors/my-repos": {
+        "Vue": 3754,
+        "TypeScript": 1476,
+        "HTML": 611,
+        "JavaScript": 518
     },
     "Leomotors/NSM2021-SmartWheelChair-Arduino": {
         "C++": 10614
@@ -53,7 +66,7 @@
         "Batchfile": 618
     },
     "Leomotors/Salim-Bot": {
-        "TypeScript": 40306,
+        "TypeScript": 41736,
         "JavaScript": 2234,
         "Shell": 630,
         "Python": 104
@@ -77,10 +90,10 @@
         "CSS": 593
     },
     "Leomotors/Website-Vector-Calculator-2": {
-        "Svelte": 8330,
+        "Svelte": 8159,
         "TypeScript": 4039,
         "JavaScript": 3253,
-        "SCSS": 3130,
+        "SCSS": 3240,
         "CSS": 1020,
         "HTML": 406
     }

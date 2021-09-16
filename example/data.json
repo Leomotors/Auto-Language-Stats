@@ -20,7 +20,7 @@
         "JavaScript": 12726
     },
     "Leomotors/dotfiles": {
-        "Shell": 1592
+        "Shell": 1925
     },
     "Leomotors/Game-That-Has-Snake": {
         "Python": 6819
@@ -40,10 +40,10 @@
         "Python": 3638
     },
     "Leomotors/my-repos": {
-        "Vue": 5784,
-        "TypeScript": 4030,
-        "HTML": 611,
-        "JavaScript": 518
+        "Vue": 6715,
+        "TypeScript": 6544,
+        "JavaScript": 1234,
+        "HTML": 620
     },
     "Leomotors/NSM2021-SmartWheelChair-Arduino": {
         "C++": 10614

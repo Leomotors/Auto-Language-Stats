@@ -1,4 +1,4 @@
-name: Load Data
+name: Update Data
 
 on:
   schedule:

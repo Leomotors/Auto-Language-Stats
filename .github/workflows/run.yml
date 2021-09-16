@@ -1,0 +1,42 @@
+name: Load Data
+
+on:
+  schedule:
+    # * Runs at 4AM Everyday
+    - cron: 0 21 * * *
+
+  workflow_dispatch:
+
+jobs:
+  run:
+    name: Run
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.x
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Load Data
+        run: npm run load
+
+      - name: Convert to CSV
+        run: npm run anal
+
+      - name: Move to Example
+        run: |
+          mv data.json example
+          mv lang.csv example
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          message: Update Language Data
+          default_author: github_actions

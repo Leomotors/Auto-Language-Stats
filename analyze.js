@@ -7,8 +7,7 @@ let langObj = {};
 try {
     const buffer = await fs.readFile("data.json");
     langObj = JSON.parse(buffer.toString());
-}
-catch (err) {
+} catch (err) {
     console.log("data.json not found");
     process.exit(1);
 }
@@ -20,15 +19,13 @@ for (const repo in langObj) {
     for (const lang in langStats) {
         if (langCounter[lang]) {
             langCounter[lang] += parseInt(langStats[lang]);
-        }
-        else {
+        } else {
             langCounter[lang] = parseInt(langStats[lang]);
         }
     }
 }
 
-const sorted = Object.entries(langCounter)
-    .sort(([, a], [, b]) => b - a);
+const sorted = Object.entries(langCounter).sort(([, a], [, b]) => b - a);
 
 const languages = [];
 sorted.map((lang) => {
@@ -71,8 +68,6 @@ for (const lang of sorted) {
 
 CSVWrite += `${totalポイッ},\n`;
 
-// console.log(CSVWrite);
-
 await fs.writeFile("lang.csv", CSVWrite);
 
-console.log("Success");
+console.log("Convert to CSV Success");

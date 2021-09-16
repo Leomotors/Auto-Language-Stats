@@ -35,6 +35,7 @@ for (const repo of allRepos) {
 
     console.log(repoUrl);
     console.log(langText);
+    console.log();
 }
 
 await fs.writeFile("data.json", JSON.stringify(outObject, null, 4));

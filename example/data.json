@@ -3,9 +3,9 @@
         "JavaScript": 2862
     },
     "Leomotors/Battleship-SIMP": {
-        "Vue": 9147,
+        "Vue": 12012,
         "JavaScript": 5102,
-        "TypeScript": 3969,
+        "TypeScript": 4086,
         "SCSS": 1383,
         "HTML": 588
     },
@@ -20,7 +20,7 @@
         "JavaScript": 12726
     },
     "Leomotors/dotfiles": {
-        "Shell": 2313
+        "Shell": 2322
     },
     "Leomotors/Game-That-Has-Snake": {
         "Python": 6819

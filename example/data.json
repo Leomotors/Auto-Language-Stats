@@ -20,7 +20,7 @@
         "JavaScript": 12726
     },
     "Leomotors/dotfiles": {
-        "Shell": 2322
+        "Shell": 2359
     },
     "Leomotors/Game-That-Has-Snake": {
         "Python": 6819
@@ -77,6 +77,11 @@
     },
     "Leomotors/Simple-RLC-Calculator": {
         "Python": 20196
+    },
+    "Leomotors/Terminal-Video-Player": {
+        "C++": 3824,
+        "C": 1666,
+        "CMake": 1411
     },
     "Leomotors/THIS-REPO-HAS-9-ISSUES": {
         "JavaScript": 930

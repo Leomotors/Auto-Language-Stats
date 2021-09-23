@@ -3,9 +3,9 @@
         "JavaScript": 2862
     },
     "Leomotors/Battleship-SIMP": {
-        "Vue": 12012,
-        "JavaScript": 5102,
-        "TypeScript": 4086,
+        "Vue": 13510,
+        "TypeScript": 5491,
+        "JavaScript": 5106,
         "SCSS": 1383,
         "HTML": 588
     },
@@ -79,9 +79,9 @@
         "Python": 20196
     },
     "Leomotors/Terminal-Video-Player": {
-        "C++": 3824,
-        "C": 1666,
-        "CMake": 1411
+        "C++": 6871,
+        "C": 3128,
+        "CMake": 1884
     },
     "Leomotors/THIS-REPO-HAS-9-ISSUES": {
         "JavaScript": 930

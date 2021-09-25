@@ -1,4 +1,10 @@
 {
+    "Leomotors/anime-captcha": {
+        "Svelte": 8442,
+        "TypeScript": 1386,
+        "HTML": 761,
+        "JavaScript": 390
+    },
     "Leomotors/Auto-Language-Stats": {
         "JavaScript": 2862
     },
@@ -38,6 +44,9 @@
     },
     "Leomotors/My-ASCII-Adventure": {
         "Python": 3638
+    },
+    "Leomotors/my-npm-automation": {
+        "JavaScript": 1568
     },
     "Leomotors/my-repos": {
         "Vue": 8930,

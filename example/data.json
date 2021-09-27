@@ -1,7 +1,7 @@
 {
     "Leomotors/anime-captcha": {
-        "Svelte": 8925,
-        "TypeScript": 1720,
+        "Svelte": 9520,
+        "TypeScript": 1763,
         "HTML": 916,
         "JavaScript": 390
     },
@@ -9,7 +9,7 @@
         "JavaScript": 2862
     },
     "Leomotors/auto-publish-release": {
-        "JavaScript": 943
+        "JavaScript": 877
     },
     "Leomotors/Battleship-SIMP": {
         "Vue": 18371,

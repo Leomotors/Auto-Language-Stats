@@ -90,6 +90,10 @@
     "Leomotors/Simple-RLC-Calculator": {
         "Python": 20196
     },
+    "Leomotors/Steganoplusplus": {
+        "C++": 2909,
+        "CMake": 899
+    },
     "Leomotors/Terminal-Video-Player": {
         "C++": 8611,
         "C": 3128,

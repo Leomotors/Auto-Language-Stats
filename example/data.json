@@ -9,7 +9,7 @@
         "JavaScript": 2901
     },
     "Leomotors/auto-publish-release": {
-        "JavaScript": 1582
+        "JavaScript": 2086
     },
     "Leomotors/Battleship-SIMP": {
         "Vue": 18371,
@@ -76,6 +76,9 @@
         "C++": 38496,
         "CMake": 2011,
         "Batchfile": 618
+    },
+    "Leomotors/s-bot-framework": {
+        "TypeScript": 14155
     },
     "Leomotors/Salim-Bot": {
         "TypeScript": 51272,

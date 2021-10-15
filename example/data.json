@@ -78,13 +78,10 @@
         "Batchfile": 618
     },
     "Leomotors/s-bot-framework": {
-        "TypeScript": 32503
+        "TypeScript": 35809
     },
     "Leomotors/Salim-Bot": {
-        "TypeScript": 51272,
-        "JavaScript": 2310,
-        "Shell": 630,
-        "Python": 104
+        "JavaScript": 5555
     },
     "Leomotors/salim-quote-delivery": {
         "TypeScript": 3856,

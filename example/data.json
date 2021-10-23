@@ -6,7 +6,7 @@
         "JavaScript": 390
     },
     "Leomotors/Auto-Language-Stats": {
-        "JavaScript": 2953
+        "JavaScript": 2966
     },
     "Leomotors/auto-publish-release": {
         "JavaScript": 2094
@@ -116,5 +116,13 @@
         "TypeScript": 10299,
         "HTML": 2797,
         "CSS": 593
+    },
+    "Leomotors/Website-Vector-Calculator-2": {
+        "Svelte": 8159,
+        "TypeScript": 4039,
+        "JavaScript": 3253,
+        "SCSS": 3240,
+        "CSS": 1020,
+        "HTML": 406
     }
 }

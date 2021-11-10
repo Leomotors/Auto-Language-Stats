@@ -73,11 +73,11 @@
         "Shell": 151
     },
     "Leomotors/portfolio-sv": {
-        "Svelte": 9010,
+        "Svelte": 9006,
         "JavaScript": 1136,
+        "CSS": 602,
         "TypeScript": 528,
-        "HTML": 454,
-        "CSS": 297
+        "HTML": 454
     },
     "Leomotors/Random-Zoom-PFP": {
         "Python": 2365
@@ -91,7 +91,7 @@
         "TypeScript": 42891
     },
     "Leomotors/Salim-Bot": {
-        "JavaScript": 5555
+        "JavaScript": 8604
     },
     "Leomotors/salim-quote-delivery": {
         "TypeScript": 3856,

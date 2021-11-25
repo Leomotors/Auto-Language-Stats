@@ -5,9 +5,6 @@
         "HTML": 916,
         "JavaScript": 210
     },
-    "Leomotors/Auto-Language-Stats": {
-        "JavaScript": 2966
-    },
     "Leomotors/auto-publish-release": {
         "JavaScript": 3478
     },
@@ -33,6 +30,9 @@
     },
     "Leomotors/Game-That-Has-Snake": {
         "Python": 6819
+    },
+    "Leomotors/Language-Stats": {
+        "JavaScript": 2966
     },
     "Leomotors/Leomotors": {},
     "Leomotors/lolilang": {

@@ -67,6 +67,10 @@
         "Kotlin": 154,
         "Objective-C": 38
     },
+    "Leomotors/polynomial-generator": {
+        "TypeScript": 5531,
+        "JavaScript": 4759
+    },
     "Leomotors/Polynomial-Problems-Generator": {
         "C++": 33793,
         "Makefile": 682,
@@ -88,7 +92,7 @@
         "Batchfile": 618
     },
     "Leomotors/s-bot-framework": {
-        "TypeScript": 42891
+        "TypeScript": 43246
     },
     "Leomotors/Salim-Bot": {
         "JavaScript": 8604

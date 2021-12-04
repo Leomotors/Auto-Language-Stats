@@ -68,14 +68,13 @@
         "Objective-C": 38
     },
     "Leomotors/online-school-reminder": {
-        "TypeScript": 8115,
+        "TypeScript": 8311,
         "SCSS": 2042,
         "JavaScript": 1493,
         "HTML": 255
     },
     "Leomotors/polynomial-generator": {
-        "TypeScript": 5531,
-        "JavaScript": 4759
+        "TypeScript": 15135
     },
     "Leomotors/Polynomial-Problems-Generator": {
         "C++": 33793,

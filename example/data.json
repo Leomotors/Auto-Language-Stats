@@ -74,7 +74,7 @@
         "HTML": 255
     },
     "Leomotors/polynomial-generator": {
-        "TypeScript": 15135
+        "TypeScript": 17854
     },
     "Leomotors/Polynomial-Problems-Generator": {
         "C++": 33793,
@@ -121,6 +121,7 @@
     "Leomotors/THIS-REPO-HAS-9-ISSUES": {
         "JavaScript": 930
     },
+    "Leomotors/TOI17-Journey": {},
     "Leomotors/Wave-Interference-Simulation": {
         "Python": 4847
     },

@@ -1,4 +1,7 @@
 {
+    "Leomotors/Advent-Of-Code-2021": {
+        "C++": 11882
+    },
     "Leomotors/anime-captcha": {
         "Svelte": 13824,
         "TypeScript": 3886,
@@ -82,9 +85,9 @@
         "Shell": 151
     },
     "Leomotors/portfolio-sv": {
-        "Svelte": 12576,
+        "Svelte": 13637,
+        "TypeScript": 1015,
         "JavaScript": 956,
-        "TypeScript": 940,
         "CSS": 602,
         "HTML": 454
     },

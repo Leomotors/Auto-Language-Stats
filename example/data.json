@@ -124,7 +124,9 @@
     "Leomotors/THIS-REPO-HAS-9-ISSUES": {
         "JavaScript": 930
     },
-    "Leomotors/TOI17-Journey": {},
+    "Leomotors/TOI17-Journey": {
+        "C++": 1896
+    },
     "Leomotors/Wave-Interference-Simulation": {
         "Python": 4847
     },

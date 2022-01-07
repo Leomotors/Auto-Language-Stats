@@ -85,10 +85,10 @@
         "Shell": 151
     },
     "Leomotors/portfolio-sv": {
-        "Svelte": 16234,
-        "JavaScript": 1098,
+        "Svelte": 18274,
+        "JavaScript": 1227,
         "CSS": 602,
-        "HTML": 507,
+        "HTML": 542,
         "TypeScript": 385
     },
     "Leomotors/Random-Zoom-PFP": {
@@ -125,7 +125,7 @@
         "JavaScript": 930
     },
     "Leomotors/TOI17-Journey": {
-        "C++": 3115
+        "C++": 4747
     },
     "Leomotors/Wave-Interference-Simulation": {
         "Python": 4847

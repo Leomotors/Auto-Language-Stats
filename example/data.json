@@ -3,9 +3,9 @@
         "C++": 16572
     },
     "Leomotors/anime-captcha": {
-        "Svelte": 14111,
-        "TypeScript": 3886,
-        "HTML": 989,
+        "Svelte": 14110,
+        "TypeScript": 4030,
+        "HTML": 1367,
         "JavaScript": 210
     },
     "Leomotors/auto-publish-release": {
@@ -91,8 +91,8 @@
     "Leomotors/portfolio-sv": {
         "Svelte": 18628,
         "JavaScript": 1227,
+        "HTML": 920,
         "CSS": 646,
-        "HTML": 542,
         "TypeScript": 385
     },
     "Leomotors/Random-Zoom-PFP": {

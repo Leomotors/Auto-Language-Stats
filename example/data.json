@@ -49,6 +49,13 @@
     "Leomotors/Memers": {
         "Dogescript": 353
     },
+    "Leomotors/MIND-Is-Not-Difficult": {
+        "Svelte": 5456,
+        "JavaScript": 1098,
+        "CSS": 808,
+        "HTML": 527,
+        "TypeScript": 210
+    },
     "Leomotors/Mini-Vector-Calculator": {
         "C": 34951
     },
@@ -56,7 +63,7 @@
         "Python": 3638
     },
     "Leomotors/my-npm-automation": {
-        "JavaScript": 1568
+        "JavaScript": 1530
     },
     "Leomotors/my-repos": {
         "Vue": 8930,
@@ -104,10 +111,10 @@
         "Batchfile": 618
     },
     "Leomotors/s-bot-framework": {
-        "TypeScript": 43607
+        "TypeScript": 43761
     },
     "Leomotors/Salim-Bot": {
-        "JavaScript": 8651
+        "JavaScript": 8672
     },
     "Leomotors/salim-quote-delivery": {
         "TypeScript": 3856,

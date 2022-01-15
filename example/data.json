@@ -18,6 +18,9 @@
         "SCSS": 1383,
         "HTML": 588
     },
+    "Leomotors/cocoa-grader": {
+        "TypeScript": 6926
+    },
     "Leomotors/daily_salim_quote": {
         "Dart": 9348,
         "HTML": 3713,
@@ -96,7 +99,7 @@
         "Shell": 151
     },
     "Leomotors/portfolio-sv": {
-        "Svelte": 18628,
+        "Svelte": 18686,
         "JavaScript": 1227,
         "HTML": 920,
         "CSS": 646,

@@ -3,9 +3,10 @@
         "C++": 16572
     },
     "Leomotors/anime-captcha": {
-        "Svelte": 14110,
-        "TypeScript": 4030,
-        "HTML": 1493,
+        "Svelte": 16047,
+        "TypeScript": 4534,
+        "HTML": 1148,
+        "CSS": 589,
         "JavaScript": 210
     },
     "Leomotors/auto-publish-release": {

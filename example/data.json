@@ -19,8 +19,11 @@
         "SCSS": 1383,
         "HTML": 588
     },
+    "Leomotors/cocoa-discord-utils": {
+        "TypeScript": 5598
+    },
     "Leomotors/cocoa-grader": {
-        "TypeScript": 6926
+        "TypeScript": 12165
     },
     "Leomotors/daily_salim_quote": {
         "Dart": 9348,
@@ -130,6 +133,11 @@
     "Leomotors/Steganoplusplus": {
         "C++": 3191,
         "CMake": 850
+    },
+    "Leomotors/stupid-problems": {
+        "HTML": 1055,
+        "JavaScript": 676,
+        "CSS": 583
     },
     "Leomotors/Terminal-Video-Player": {
         "C++": 8611,

@@ -10,7 +10,7 @@
         "JavaScript": 210
     },
     "Leomotors/auto-publish-release": {
-        "JavaScript": 3808
+        "JavaScript": 4491
     },
     "Leomotors/Battleship-SIMP": {
         "Vue": 18371,
@@ -23,7 +23,7 @@
         "TypeScript": 5598
     },
     "Leomotors/cocoa-grader": {
-        "TypeScript": 12165
+        "TypeScript": 13479
     },
     "Leomotors/daily_salim_quote": {
         "Dart": 9348,
@@ -135,9 +135,9 @@
         "CMake": 850
     },
     "Leomotors/stupid-problems": {
-        "HTML": 1055,
-        "JavaScript": 676,
-        "CSS": 583
+        "HTML": 1197,
+        "CSS": 1037,
+        "JavaScript": 962
     },
     "Leomotors/Terminal-Video-Player": {
         "C++": 8611,

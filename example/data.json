@@ -20,10 +20,10 @@
         "HTML": 588
     },
     "Leomotors/cocoa-discord-utils": {
-        "TypeScript": 29534
+        "TypeScript": 39064
     },
     "Leomotors/cocoa-grader": {
-        "TypeScript": 16464
+        "TypeScript": 21565
     },
     "Leomotors/daily_salim_quote": {
         "Dart": 9348,
@@ -129,6 +129,14 @@
     },
     "Leomotors/Simple-RLC-Calculator": {
         "Python": 20196
+    },
+    "Leomotors/simple-todo-app-tauri": {
+        "Svelte": 1264,
+        "JavaScript": 889,
+        "HTML": 351,
+        "TypeScript": 322,
+        "Rust": 285,
+        "CSS": 114
     },
     "Leomotors/Steganoplusplus": {
         "C++": 3191,

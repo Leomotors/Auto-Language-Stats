@@ -4,7 +4,7 @@
     },
     "Leomotors/anime-captcha": {
         "Svelte": 16290,
-        "TypeScript": 4560,
+        "TypeScript": 4525,
         "HTML": 1148,
         "CSS": 589,
         "JavaScript": 210
@@ -41,7 +41,7 @@
         "JavaScript": 12726
     },
     "Leomotors/dotfiles": {
-        "Shell": 2555
+        "Shell": 2584
     },
     "Leomotors/Game-That-Has-Snake": {
         "Python": 6819

@@ -67,7 +67,7 @@
         "Python": 3638
     },
     "Leomotors/my-npm-automation": {
-        "JavaScript": 1579
+        "JavaScript": 1629
     },
     "Leomotors/my-repos": {
         "Vue": 8930,
@@ -100,11 +100,11 @@
         "Shell": 151
     },
     "Leomotors/portfolio-sv": {
-        "Svelte": 23728,
-        "CSS": 1685,
-        "JavaScript": 1318,
-        "HTML": 1092,
-        "TypeScript": 1057
+        "Svelte": 25010,
+        "JavaScript": 2540,
+        "TypeScript": 1697,
+        "CSS": 1259,
+        "HTML": 1073
     },
     "Leomotors/Random-Zoom-PFP": {
         "Python": 2365

@@ -100,11 +100,11 @@
         "Shell": 151
     },
     "Leomotors/portfolio-sv": {
-        "Svelte": 25202,
+        "Svelte": 25744,
         "JavaScript": 4917,
-        "TypeScript": 1692,
+        "TypeScript": 1743,
         "CSS": 1259,
-        "HTML": 1073
+        "HTML": 1095
     },
     "Leomotors/Random-Zoom-PFP": {
         "Python": 2365
@@ -140,9 +140,14 @@
         "CMake": 850
     },
     "Leomotors/stupid-problems": {
+        "TeX": 33182,
+        "C++": 6546,
+        "TypeScript": 5680,
+        "Python": 5636,
         "HTML": 1197,
         "CSS": 1037,
-        "JavaScript": 962
+        "JavaScript": 722,
+        "Shell": 316
     },
     "Leomotors/Terminal-Video-Player": {
         "C++": 8611,

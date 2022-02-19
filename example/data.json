@@ -24,7 +24,7 @@
         "JavaScript": 706
     },
     "Leomotors/cocoa-grader": {
-        "TypeScript": 21589
+        "TypeScript": 24075
     },
     "Leomotors/daily_salim_quote": {
         "Dart": 9348,
@@ -70,10 +70,10 @@
         "JavaScript": 1629
     },
     "Leomotors/my-repos": {
-        "Vue": 8930,
-        "TypeScript": 5404,
-        "JavaScript": 1234,
-        "HTML": 620
+        "Vue": 8969,
+        "TypeScript": 4233,
+        "HTML": 694,
+        "JavaScript": 583
     },
     "Leomotors/NSM2021-SmartWheelChair-Arduino": {
         "C++": 10614
@@ -140,14 +140,14 @@
         "CMake": 850
     },
     "Leomotors/stupid-problems": {
-        "TeX": 33182,
-        "C++": 6546,
-        "TypeScript": 5680,
-        "Python": 5636,
+        "TeX": 31231,
+        "C++": 8121,
+        "Python": 6716,
+        "TypeScript": 6184,
         "HTML": 1197,
         "CSS": 1037,
         "JavaScript": 722,
-        "Shell": 316
+        "Shell": 626
     },
     "Leomotors/Terminal-Video-Player": {
         "C++": 8611,

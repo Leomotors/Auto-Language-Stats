@@ -4,7 +4,7 @@
     },
     "Leomotors/anime-captcha": {
         "Svelte": 16290,
-        "TypeScript": 4525,
+        "TypeScript": 7229,
         "HTML": 1148,
         "CSS": 589,
         "JavaScript": 210
@@ -20,7 +20,7 @@
         "HTML": 588
     },
     "Leomotors/cocoa-discord-utils": {
-        "TypeScript": 45060,
+        "TypeScript": 46329,
         "JavaScript": 706
     },
     "Leomotors/cocoa-grader": {
@@ -143,7 +143,7 @@
         "TeX": 31231,
         "C++": 8121,
         "Python": 6716,
-        "TypeScript": 6184,
+        "TypeScript": 6286,
         "HTML": 1197,
         "CSS": 1037,
         "JavaScript": 722,

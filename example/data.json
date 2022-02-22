@@ -10,7 +10,7 @@
         "JavaScript": 210
     },
     "Leomotors/auto-publish-release": {
-        "JavaScript": 4779
+        "JavaScript": 4824
     },
     "Leomotors/Battleship-SIMP": {
         "Vue": 18371,
@@ -20,11 +20,11 @@
         "HTML": 588
     },
     "Leomotors/cocoa-discord-utils": {
-        "TypeScript": 49835,
+        "TypeScript": 55315,
         "JavaScript": 706
     },
     "Leomotors/cocoa-grader": {
-        "TypeScript": 24075
+        "TypeScript": 23639
     },
     "Leomotors/daily_salim_quote": {
         "Dart": 9348,

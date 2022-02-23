@@ -20,7 +20,7 @@
         "HTML": 588
     },
     "Leomotors/cocoa-discord-utils": {
-        "TypeScript": 55315,
+        "TypeScript": 56708,
         "JavaScript": 706
     },
     "Leomotors/cocoa-grader": {
@@ -100,11 +100,11 @@
         "Shell": 151
     },
     "Leomotors/portfolio-sv": {
-        "Svelte": 25744,
+        "Svelte": 26231,
         "JavaScript": 4917,
         "TypeScript": 1743,
-        "CSS": 1259,
-        "HTML": 1095
+        "CSS": 1238,
+        "HTML": 1194
     },
     "Leomotors/Random-Zoom-PFP": {
         "Python": 2365

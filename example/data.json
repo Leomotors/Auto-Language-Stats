@@ -3,8 +3,8 @@
         "C++": 16572
     },
     "Leomotors/anime-captcha": {
-        "Svelte": 16290,
-        "TypeScript": 7229,
+        "Svelte": 16599,
+        "TypeScript": 7277,
         "HTML": 1148,
         "CSS": 589,
         "JavaScript": 210
@@ -20,7 +20,7 @@
         "HTML": 588
     },
     "Leomotors/cocoa-discord-utils": {
-        "TypeScript": 56708,
+        "TypeScript": 56607,
         "JavaScript": 706
     },
     "Leomotors/cocoa-grader": {
@@ -66,14 +66,14 @@
     "Leomotors/My-ASCII-Adventure": {
         "Python": 3638
     },
-    "Leomotors/my-npm-automation": {
-        "JavaScript": 1629
-    },
     "Leomotors/my-repos": {
         "Vue": 8969,
         "TypeScript": 4233,
         "HTML": 694,
         "JavaScript": 583
+    },
+    "Leomotors/npm-scripts": {
+        "JavaScript": 1629
     },
     "Leomotors/NSM2021-SmartWheelChair-Arduino": {
         "C++": 10614
@@ -115,10 +115,10 @@
         "Batchfile": 618
     },
     "Leomotors/s-bot-framework": {
-        "TypeScript": 43761
+        "TypeScript": 44549
     },
     "Leomotors/Salim-Bot": {
-        "JavaScript": 8672
+        "JavaScript": 8626
     },
     "Leomotors/salim-quote-delivery": {
         "TypeScript": 3856,

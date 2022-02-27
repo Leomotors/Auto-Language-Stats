@@ -20,11 +20,11 @@
         "HTML": 588
     },
     "Leomotors/cocoa-discord-utils": {
-        "TypeScript": 56607,
+        "TypeScript": 56740,
         "JavaScript": 706
     },
     "Leomotors/cocoa-grader": {
-        "TypeScript": 23662
+        "TypeScript": 26113
     },
     "Leomotors/daily_salim_quote": {
         "Dart": 9348,
@@ -140,9 +140,9 @@
         "CMake": 850
     },
     "Leomotors/stupid-problems": {
-        "TeX": 31231,
-        "C++": 8121,
-        "Python": 6716,
+        "TeX": 34991,
+        "C++": 11011,
+        "Python": 7578,
         "TypeScript": 6286,
         "HTML": 1197,
         "CSS": 1037,

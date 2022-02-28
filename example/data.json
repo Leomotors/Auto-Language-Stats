@@ -106,6 +106,9 @@
         "CSS": 1238,
         "HTML": 1193
     },
+    "Leomotors/rabbit-house-menu": {
+        "C#": 22961
+    },
     "Leomotors/Random-Zoom-PFP": {
         "Python": 2365
     },
@@ -140,7 +143,7 @@
         "CMake": 850
     },
     "Leomotors/stupid-problems": {
-        "TeX": 34991,
+        "TeX": 34950,
         "C++": 11011,
         "Python": 7578,
         "TypeScript": 6286,

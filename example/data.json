@@ -41,10 +41,13 @@
         "JavaScript": 12726
     },
     "Leomotors/dotfiles": {
-        "Shell": 2584
+        "Shell": 2667
     },
     "Leomotors/Game-That-Has-Snake": {
         "Python": 6819
+    },
+    "Leomotors/golden-frame": {
+        "Python": 2209
     },
     "Leomotors/Language-Stats": {
         "JavaScript": 2966

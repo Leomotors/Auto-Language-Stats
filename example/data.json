@@ -47,7 +47,7 @@
         "Python": 6819
     },
     "Leomotors/golden-frame": {
-        "Python": 2209
+        "Python": 3530
     },
     "Leomotors/Language-Stats": {
         "JavaScript": 2966
@@ -103,14 +103,14 @@
         "Shell": 151
     },
     "Leomotors/portfolio-sv": {
-        "Svelte": 26231,
+        "Svelte": 26358,
         "JavaScript": 4917,
         "TypeScript": 1743,
         "CSS": 1238,
         "HTML": 1193
     },
     "Leomotors/rabbit-house-menu": {
-        "C#": 22961
+        "C#": 28214
     },
     "Leomotors/Random-Zoom-PFP": {
         "Python": 2365

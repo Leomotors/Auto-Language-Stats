@@ -181,5 +181,14 @@
         "SCSS": 3240,
         "CSS": 1020,
         "HTML": 406
+    },
+    "Leomotors/you-are-a-failure": {
+        "C#": 20831,
+        "Svelte": 5459,
+        "JavaScript": 1661,
+        "CSS": 581,
+        "HTML": 580,
+        "Shell": 293,
+        "TypeScript": 270
     }
 }

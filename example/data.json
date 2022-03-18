@@ -41,7 +41,8 @@
         "JavaScript": 12726
     },
     "Leomotors/dotfiles": {
-        "Shell": 2667
+        "Shell": 2667,
+        "PowerShell": 460
     },
     "Leomotors/Game-That-Has-Snake": {
         "Python": 6819
@@ -183,8 +184,8 @@
         "HTML": 406
     },
     "Leomotors/you-are-a-failure": {
-        "C#": 24334,
-        "Svelte": 5459,
+        "C#": 40485,
+        "Svelte": 7009,
         "JavaScript": 1661,
         "CSS": 581,
         "HTML": 580,

@@ -20,7 +20,7 @@
         "HTML": 588
     },
     "Leomotors/cocoa-discord-utils": {
-        "TypeScript": 57623,
+        "TypeScript": 58016,
         "JavaScript": 706
     },
     "Leomotors/cocoa-grader": {
@@ -104,10 +104,10 @@
         "Shell": 151
     },
     "Leomotors/portfolio-sv": {
-        "Svelte": 25775,
+        "Svelte": 27756,
         "JavaScript": 5017,
-        "TypeScript": 1763,
-        "CSS": 1238,
+        "TypeScript": 1926,
+        "CSS": 1638,
         "HTML": 1192
     },
     "Leomotors/rabbit-house-menu": {

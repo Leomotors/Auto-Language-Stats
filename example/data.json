@@ -20,7 +20,7 @@
         "HTML": 588
     },
     "Leomotors/cocoa-discord-utils": {
-        "TypeScript": 58016,
+        "TypeScript": 64187,
         "JavaScript": 706
     },
     "Leomotors/cocoa-grader": {
@@ -42,7 +42,7 @@
     },
     "Leomotors/dotfiles": {
         "Shell": 2667,
-        "PowerShell": 460
+        "PowerShell": 458
     },
     "Leomotors/Game-That-Has-Snake": {
         "Python": 6819

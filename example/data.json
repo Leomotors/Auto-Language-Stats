@@ -20,7 +20,7 @@
         "HTML": 588
     },
     "Leomotors/cocoa-discord-utils": {
-        "TypeScript": 64187,
+        "TypeScript": 63963,
         "JavaScript": 706
     },
     "Leomotors/cocoa-grader": {
@@ -77,7 +77,7 @@
         "JavaScript": 583
     },
     "Leomotors/npm-scripts": {
-        "JavaScript": 1629
+        "JavaScript": 1631
     },
     "Leomotors/NSM2021-SmartWheelChair-Arduino": {
         "C++": 10614
@@ -96,7 +96,7 @@
         "HTML": 255
     },
     "Leomotors/polynomial-generator": {
-        "TypeScript": 17854
+        "TypeScript": 17753
     },
     "Leomotors/Polynomial-Problems-Generator": {
         "C++": 33793,
@@ -104,7 +104,7 @@
         "Shell": 151
     },
     "Leomotors/portfolio-sv": {
-        "Svelte": 27756,
+        "Svelte": 27969,
         "JavaScript": 5017,
         "TypeScript": 1926,
         "CSS": 1638,
@@ -156,6 +156,13 @@
         "JavaScript": 722,
         "Shell": 626
     },
+    "Leomotors/templates": {
+        "JavaScript": 1911,
+        "TypeScript": 396,
+        "HTML": 374,
+        "CSS": 276,
+        "Svelte": 187
+    },
     "Leomotors/Terminal-Video-Player": {
         "C++": 8611,
         "C": 3128,
@@ -184,7 +191,7 @@
         "HTML": 406
     },
     "Leomotors/you-are-a-failure": {
-        "C#": 46720,
+        "C#": 49629,
         "Svelte": 9094,
         "JavaScript": 1661,
         "HTML": 580,

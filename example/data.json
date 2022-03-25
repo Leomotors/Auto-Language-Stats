@@ -10,7 +10,13 @@
         "JavaScript": 210
     },
     "Leomotors/auto-publish-release": {
-        "JavaScript": 4824
+        "JavaScript": 4675
+    },
+    "Leomotors/baht.c": {
+        "JavaScript": 4641,
+        "C": 3900,
+        "TypeScript": 1211,
+        "Shell": 380
     },
     "Leomotors/Battleship-SIMP": {
         "Vue": 18371,
@@ -58,11 +64,11 @@
         "Dogescript": 353
     },
     "Leomotors/MIND-Is-Not-Difficult": {
-        "Svelte": 5456,
-        "JavaScript": 1098,
+        "Svelte": 5367,
+        "JavaScript": 1013,
         "CSS": 808,
         "HTML": 527,
-        "TypeScript": 210
+        "TypeScript": 87
     },
     "Leomotors/Mini-Vector-Calculator": {
         "C": 34951
@@ -71,10 +77,10 @@
         "Python": 3638
     },
     "Leomotors/my-repos": {
-        "Vue": 8969,
+        "Vue": 9075,
         "TypeScript": 4233,
         "HTML": 694,
-        "JavaScript": 583
+        "JavaScript": 494
     },
     "Leomotors/npm-scripts": {
         "JavaScript": 1631
@@ -104,7 +110,7 @@
         "Shell": 151
     },
     "Leomotors/portfolio-sv": {
-        "Svelte": 27969,
+        "Svelte": 27934,
         "JavaScript": 5017,
         "TypeScript": 1926,
         "CSS": 1638,

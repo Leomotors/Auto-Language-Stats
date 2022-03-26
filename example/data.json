@@ -10,12 +10,12 @@
         "JavaScript": 210
     },
     "Leomotors/auto-publish-release": {
-        "JavaScript": 4675
+        "JavaScript": 4664
     },
     "Leomotors/baht.c": {
-        "JavaScript": 4641,
-        "C": 3900,
-        "TypeScript": 1211,
+        "JavaScript": 5930,
+        "C": 4918,
+        "TypeScript": 1227,
         "Shell": 380
     },
     "Leomotors/Battleship-SIMP": {
@@ -64,11 +64,11 @@
         "Dogescript": 353
     },
     "Leomotors/MIND-Is-Not-Difficult": {
-        "Svelte": 5367,
-        "JavaScript": 1013,
-        "CSS": 808,
-        "HTML": 527,
-        "TypeScript": 87
+        "Svelte": 8006,
+        "JavaScript": 1213,
+        "CSS": 815,
+        "TypeScript": 716,
+        "HTML": 590
     },
     "Leomotors/Mini-Vector-Calculator": {
         "C": 34951
@@ -163,8 +163,8 @@
         "Shell": 626
     },
     "Leomotors/templates": {
-        "JavaScript": 1911,
-        "TypeScript": 396,
+        "JavaScript": 1878,
+        "TypeScript": 600,
         "HTML": 374,
         "CSS": 276,
         "Svelte": 187

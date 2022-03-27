@@ -26,7 +26,7 @@
         "HTML": 588
     },
     "Leomotors/cocoa-discord-utils": {
-        "TypeScript": 63963,
+        "TypeScript": 68100,
         "JavaScript": 706
     },
     "Leomotors/cocoa-grader": {
@@ -128,10 +128,10 @@
         "Batchfile": 618
     },
     "Leomotors/s-bot-framework": {
-        "TypeScript": 44549
+        "TypeScript": 44748
     },
     "Leomotors/Salim-Bot": {
-        "JavaScript": 8626
+        "TypeScript": 18939
     },
     "Leomotors/salim-quote-delivery": {
         "TypeScript": 3856,

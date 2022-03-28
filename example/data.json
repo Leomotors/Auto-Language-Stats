@@ -26,11 +26,11 @@
         "HTML": 588
     },
     "Leomotors/cocoa-discord-utils": {
-        "TypeScript": 68100,
+        "TypeScript": 68171,
         "JavaScript": 706
     },
     "Leomotors/cocoa-grader": {
-        "TypeScript": 26113
+        "TypeScript": 25851
     },
     "Leomotors/daily_salim_quote": {
         "Dart": 9348,
@@ -131,7 +131,7 @@
         "TypeScript": 44748
     },
     "Leomotors/Salim-Bot": {
-        "TypeScript": 18939
+        "TypeScript": 19342
     },
     "Leomotors/salim-quote-delivery": {
         "TypeScript": 3856,
@@ -153,10 +153,10 @@
         "CMake": 850
     },
     "Leomotors/stupid-problems": {
-        "TeX": 34950,
+        "TeX": 24557,
         "C++": 11011,
-        "Python": 7578,
-        "TypeScript": 6286,
+        "Python": 7616,
+        "TypeScript": 6348,
         "HTML": 1197,
         "CSS": 1037,
         "JavaScript": 722,
@@ -197,7 +197,7 @@
         "HTML": 406
     },
     "Leomotors/you-are-a-failure": {
-        "C#": 49629,
+        "C#": 50487,
         "Svelte": 9094,
         "JavaScript": 1661,
         "HTML": 580,

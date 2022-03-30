@@ -127,6 +127,10 @@
         "CMake": 2021,
         "Batchfile": 618
     },
+    "Leomotors/RTX-2090-TiFy-2": {
+        "C++": 17490,
+        "JavaScript": 413
+    },
     "Leomotors/s-bot-framework": {
         "TypeScript": 44748
     },
@@ -197,8 +201,8 @@
         "HTML": 406
     },
     "Leomotors/you-are-a-failure": {
-        "C#": 50487,
-        "Svelte": 9094,
+        "C#": 50418,
+        "Svelte": 9597,
         "JavaScript": 1661,
         "HTML": 580,
         "Shell": 323,

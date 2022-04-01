@@ -110,9 +110,9 @@
         "Shell": 151
     },
     "Leomotors/portfolio-sv": {
-        "Svelte": 27934,
-        "JavaScript": 5017,
-        "TypeScript": 1926,
+        "Svelte": 27989,
+        "JavaScript": 4781,
+        "TypeScript": 1970,
         "CSS": 1638,
         "HTML": 1192
     },
@@ -123,12 +123,12 @@
         "Python": 2365
     },
     "Leomotors/RTX-2090-TiFy": {
-        "C++": 38923,
-        "CMake": 2021,
+        "C++": 38496,
+        "CMake": 2011,
         "Batchfile": 618
     },
-    "Leomotors/RTX-2090-TiFy-2": {
-        "C++": 30915,
+    "Leomotors/RTX-2090-TiFy-SUPER": {
+        "C++": 33726,
         "JavaScript": 413
     },
     "Leomotors/s-bot-framework": {
@@ -202,7 +202,7 @@
     },
     "Leomotors/you-are-a-failure": {
         "C#": 50418,
-        "Svelte": 9597,
+        "Svelte": 10400,
         "JavaScript": 1661,
         "HTML": 580,
         "Shell": 323,

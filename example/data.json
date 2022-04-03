@@ -10,7 +10,7 @@
         "JavaScript": 210
     },
     "Leomotors/auto-publish-release": {
-        "JavaScript": 4664
+        "JavaScript": 4685
     },
     "Leomotors/baht.c": {
         "JavaScript": 5930,
@@ -31,6 +31,10 @@
     },
     "Leomotors/cocoa-grader": {
         "TypeScript": 25851
+    },
+    "Leomotors/CRLF-Phobia": {
+        "TypeScript": 1112,
+        "JavaScript": 41
     },
     "Leomotors/daily_salim_quote": {
         "Dart": 9348,
@@ -201,7 +205,7 @@
         "HTML": 406
     },
     "Leomotors/you-are-a-failure": {
-        "C#": 50418,
+        "C#": 51181,
         "Svelte": 10400,
         "JavaScript": 1661,
         "HTML": 580,

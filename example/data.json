@@ -114,11 +114,11 @@
         "Shell": 151
     },
     "Leomotors/portfolio-sv": {
-        "Svelte": 27989,
+        "Svelte": 28022,
         "JavaScript": 4781,
         "TypeScript": 1970,
         "CSS": 1638,
-        "HTML": 1192
+        "HTML": 1132
     },
     "Leomotors/rabbit-house-menu": {
         "C#": 28214
@@ -178,9 +178,9 @@
         "Svelte": 187
     },
     "Leomotors/Terminal-Video-Player": {
-        "C++": 8611,
-        "C": 3128,
-        "CMake": 1905
+        "C++": 15387,
+        "C": 3088,
+        "CMake": 2069
     },
     "Leomotors/THIS-REPO-HAS-9-ISSUES": {
         "JavaScript": 930

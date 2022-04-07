@@ -54,6 +54,9 @@
         "Shell": 2667,
         "PowerShell": 458
     },
+    "Leomotors/friendship": {
+        "HTML": 376
+    },
     "Leomotors/Game-That-Has-Snake": {
         "Python": 6819
     },
@@ -132,7 +135,7 @@
         "Batchfile": 618
     },
     "Leomotors/RTX-2090-TiFy-SUPER": {
-        "C++": 44241,
+        "C++": 45194,
         "JavaScript": 413
     },
     "Leomotors/s-bot-framework": {

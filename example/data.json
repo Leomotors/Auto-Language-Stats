@@ -10,7 +10,7 @@
         "JavaScript": 210
     },
     "Leomotors/auto-publish-release": {
-        "JavaScript": 4685
+        "JavaScript": 4990
     },
     "Leomotors/baht.c": {
         "JavaScript": 5930,
@@ -26,7 +26,7 @@
         "HTML": 588
     },
     "Leomotors/cocoa-discord-utils": {
-        "TypeScript": 68171,
+        "TypeScript": 68186,
         "JavaScript": 706
     },
     "Leomotors/cocoa-grader": {
@@ -44,8 +44,8 @@
         "Objective-C": 38
     },
     "Leomotors/Data-Structure": {
-        "C++": 11829,
-        "TypeScript": 2214,
+        "C++": 16146,
+        "TypeScript": 2804,
         "Shell": 237
     },
     "Leomotors/Discord-Polynomial-Master": {
@@ -146,7 +146,7 @@
         "TypeScript": 44748
     },
     "Leomotors/Salim-Bot": {
-        "TypeScript": 19342
+        "TypeScript": 21015
     },
     "Leomotors/salim-quote-delivery": {
         "TypeScript": 3856,

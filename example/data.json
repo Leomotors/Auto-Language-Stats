@@ -10,7 +10,7 @@
         "JavaScript": 210
     },
     "Leomotors/auto-publish-release": {
-        "JavaScript": 4990
+        "JavaScript": 4919
     },
     "Leomotors/baht.c": {
         "JavaScript": 5930,
@@ -26,7 +26,7 @@
         "HTML": 588
     },
     "Leomotors/cocoa-discord-utils": {
-        "TypeScript": 68186,
+        "TypeScript": 70635,
         "JavaScript": 706
     },
     "Leomotors/cocoa-grader": {
@@ -84,11 +84,15 @@
     "Leomotors/Mini-Vector-Calculator": {
         "C": 34951
     },
+    "Leomotors/music-bot": {
+        "TypeScript": 18349,
+        "JavaScript": 521
+    },
     "Leomotors/My-ASCII-Adventure": {
         "Python": 3638
     },
     "Leomotors/my-repos": {
-        "Vue": 9075,
+        "Vue": 10508,
         "TypeScript": 4233,
         "HTML": 694,
         "JavaScript": 494

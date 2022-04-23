@@ -52,7 +52,7 @@
         "JavaScript": 12726
     },
     "Leomotors/dotfiles": {
-        "Shell": 2667,
+        "Shell": 5053,
         "PowerShell": 458
     },
     "Leomotors/friendship": {
@@ -150,7 +150,7 @@
         "TypeScript": 45258
     },
     "Leomotors/Salim-Bot": {
-        "TypeScript": 25276
+        "TypeScript": 25285
     },
     "Leomotors/salim-quote-delivery": {
         "TypeScript": 3856,
@@ -189,7 +189,7 @@
         "Svelte": 187
     },
     "Leomotors/Terminal-Video-Player": {
-        "C++": 15387,
+        "C++": 15424,
         "C": 3088,
         "CMake": 2069
     },

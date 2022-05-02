@@ -64,6 +64,13 @@
     "Leomotors/golden-frame": {
         "Python": 3530
     },
+    "Leomotors/grab-krub": {
+        "Svelte": 5317,
+        "JavaScript": 1666,
+        "HTML": 562,
+        "CSS": 529,
+        "TypeScript": 213
+    },
     "Leomotors/Language-Stats": {
         "JavaScript": 2966
     },

@@ -26,7 +26,7 @@
         "HTML": 588
     },
     "Leomotors/cocoa-discord-utils": {
-        "TypeScript": 71501,
+        "TypeScript": 73140,
         "JavaScript": 706
     },
     "Leomotors/cocoa-grader": {
@@ -65,11 +65,11 @@
         "Python": 3530
     },
     "Leomotors/grab-krub": {
-        "Svelte": 5317,
-        "JavaScript": 1666,
-        "HTML": 562,
-        "CSS": 529,
-        "TypeScript": 213
+        "Svelte": 5267,
+        "JavaScript": 3828,
+        "TypeScript": 1389,
+        "CSS": 834,
+        "HTML": 562
     },
     "Leomotors/Language-Stats": {
         "JavaScript": 2966
@@ -92,7 +92,7 @@
         "C": 34951
     },
     "Leomotors/music-bot": {
-        "TypeScript": 18443,
+        "TypeScript": 18537,
         "JavaScript": 1662
     },
     "Leomotors/My-ASCII-Adventure": {

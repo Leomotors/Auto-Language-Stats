@@ -142,7 +142,7 @@
         "HTML": 1132
     },
     "Leomotors/rabbit-house-menu": {
-        "C#": 28214
+        "C#": 24226
     },
     "Leomotors/Random-Zoom-PFP": {
         "Python": 2365
@@ -153,7 +153,7 @@
         "Batchfile": 618
     },
     "Leomotors/RTX-2090-TiFy-SUPER": {
-        "C++": 50130,
+        "C++": 48909,
         "JavaScript": 413
     },
     "Leomotors/s-bot-framework": {
@@ -192,11 +192,11 @@
         "Shell": 626
     },
     "Leomotors/templates": {
-        "JavaScript": 1878,
-        "TypeScript": 600,
-        "HTML": 374,
-        "CSS": 276,
-        "Svelte": 187
+        "JavaScript": 3145,
+        "HTML": 748,
+        "TypeScript": 661,
+        "CSS": 552,
+        "Svelte": 374
     },
     "Leomotors/Terminal-Video-Player": {
         "C++": 15424,

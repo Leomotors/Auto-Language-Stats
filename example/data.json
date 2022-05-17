@@ -183,13 +183,13 @@
     },
     "Leomotors/stupid-problems": {
         "TeX": 24557,
-        "C++": 11011,
-        "Python": 7616,
-        "TypeScript": 6348,
+        "C++": 19510,
+        "Python": 8579,
+        "TypeScript": 8235,
         "HTML": 1197,
         "CSS": 1037,
-        "JavaScript": 722,
-        "Shell": 626
+        "Shell": 885,
+        "JavaScript": 722
     },
     "Leomotors/templates": {
         "JavaScript": 3100,

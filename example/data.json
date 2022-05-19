@@ -3,11 +3,11 @@
         "C++": 16572
     },
     "Leomotors/anime-captcha": {
-        "Svelte": 16601,
-        "TypeScript": 5781,
-        "HTML": 1199,
-        "CSS": 589,
-        "JavaScript": 210
+        "Svelte": 20631,
+        "TypeScript": 5771,
+        "JavaScript": 4060,
+        "CSS": 1102,
+        "HTML": 778
     },
     "Leomotors/auto-publish-release": {
         "JavaScript": 4935
@@ -160,7 +160,7 @@
         "TypeScript": 45258
     },
     "Leomotors/Salim-Bot": {
-        "TypeScript": 25803
+        "TypeScript": 25809
     },
     "Leomotors/salim-quote-delivery": {
         "TypeScript": 3856,
@@ -193,8 +193,8 @@
     },
     "Leomotors/templates": {
         "JavaScript": 3100,
+        "TypeScript": 1201,
         "HTML": 748,
-        "TypeScript": 661,
         "CSS": 552,
         "Svelte": 374
     },

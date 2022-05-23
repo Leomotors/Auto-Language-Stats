@@ -147,6 +147,13 @@
     "Leomotors/Random-Zoom-PFP": {
         "Python": 2365
     },
+    "Leomotors/resumette": {
+        "Svelte": 7097,
+        "TypeScript": 4512,
+        "JavaScript": 852,
+        "HTML": 559,
+        "CSS": 59
+    },
     "Leomotors/RTX-2090-TiFy": {
         "C++": 38496,
         "CMake": 2011,

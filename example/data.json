@@ -80,11 +80,11 @@
     },
     "Leomotors/Leomotors": {},
     "Leomotors/leomotors.github.io": {
-        "JavaScript": 1291,
-        "HTML": 457,
-        "Svelte": 390,
-        "CSS": 276,
-        "TypeScript": 270
+        "Svelte": 6422,
+        "JavaScript": 1517,
+        "HTML": 484,
+        "TypeScript": 270,
+        "CSS": 214
     },
     "Leomotors/Memers": {
         "Dogescript": 353
@@ -143,11 +143,11 @@
         "Shell": 151
     },
     "Leomotors/portfolio-sv": {
-        "Svelte": 21876,
+        "Svelte": 21935,
         "CSS": 1811,
         "TypeScript": 1721,
         "JavaScript": 1533,
-        "HTML": 1031
+        "HTML": 654
     },
     "Leomotors/rabbit-house-menu": {
         "C#": 24226
@@ -156,10 +156,10 @@
         "Python": 2365
     },
     "Leomotors/resumette": {
-        "Svelte": 7097,
-        "TypeScript": 4512,
+        "Svelte": 7454,
+        "TypeScript": 5745,
         "JavaScript": 852,
-        "HTML": 559,
+        "HTML": 561,
         "CSS": 59
     },
     "Leomotors/RTX-2090-TiFy": {
@@ -209,7 +209,7 @@
     "Leomotors/templates": {
         "JavaScript": 3100,
         "TypeScript": 1201,
-        "HTML": 748,
+        "HTML": 744,
         "CSS": 552,
         "Svelte": 374
     },

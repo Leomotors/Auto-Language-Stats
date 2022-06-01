@@ -80,7 +80,7 @@
     },
     "Leomotors/Leomotors": {},
     "Leomotors/leomotors.github.io": {
-        "Svelte": 6422,
+        "Svelte": 6400,
         "JavaScript": 1517,
         "HTML": 484,
         "TypeScript": 270,
@@ -156,8 +156,8 @@
         "Python": 2365
     },
     "Leomotors/resumette": {
-        "Svelte": 7454,
-        "TypeScript": 5745,
+        "Svelte": 7557,
+        "TypeScript": 5977,
         "JavaScript": 852,
         "HTML": 561,
         "CSS": 59

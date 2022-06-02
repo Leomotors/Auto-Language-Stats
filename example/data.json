@@ -3,11 +3,11 @@
         "C++": 16572
     },
     "Leomotors/anime-captcha": {
-        "Svelte": 20631,
-        "TypeScript": 5771,
-        "JavaScript": 4060,
-        "CSS": 1102,
-        "HTML": 778
+        "Svelte": 24542,
+        "TypeScript": 5844,
+        "JavaScript": 4072,
+        "CSS": 1304,
+        "HTML": 773
     },
     "Leomotors/auto-publish-release": {
         "JavaScript": 4935
@@ -37,7 +37,7 @@
         "TypeScript": 25851
     },
     "Leomotors/CRLF-Phobia": {
-        "TypeScript": 1889,
+        "TypeScript": 1982,
         "JavaScript": 41
     },
     "Leomotors/daily_salim_quote": {
@@ -135,7 +135,7 @@
         "HTML": 255
     },
     "Leomotors/polynomial-generator": {
-        "TypeScript": 17753
+        "TypeScript": 18019
     },
     "Leomotors/Polynomial-Problems-Generator": {
         "C++": 33793,

@@ -93,11 +93,11 @@
         "Q#": 924
     },
     "Leomotors/MIND-Is-Not-Difficult": {
-        "Svelte": 7701,
-        "JavaScript": 2182,
-        "CSS": 815,
-        "HTML": 591,
-        "TypeScript": 357
+        "Svelte": 13318,
+        "JavaScript": 2186,
+        "TypeScript": 2040,
+        "CSS": 878,
+        "HTML": 591
     },
     "Leomotors/Mini-Vector-Calculator": {
         "C": 34951
@@ -135,7 +135,7 @@
         "HTML": 255
     },
     "Leomotors/polynomial-generator": {
-        "TypeScript": 14237
+        "TypeScript": 14851
     },
     "Leomotors/Polynomial-Problems-Generator": {
         "C++": 33793,
@@ -143,10 +143,10 @@
         "Shell": 151
     },
     "Leomotors/portfolio-sv": {
-        "Svelte": 21935,
+        "Svelte": 17625,
         "CSS": 1811,
         "TypeScript": 1721,
-        "JavaScript": 1533,
+        "JavaScript": 1537,
         "HTML": 654
     },
     "Leomotors/rabbit-house-menu": {
@@ -207,7 +207,7 @@
         "JavaScript": 722
     },
     "Leomotors/sv-components": {
-        "Svelte": 8003,
+        "Svelte": 8971,
         "JavaScript": 1703,
         "HTML": 482,
         "TypeScript": 352,
@@ -217,7 +217,7 @@
         "JavaScript": 3100,
         "TypeScript": 1201,
         "HTML": 744,
-        "CSS": 552,
+        "CSS": 442,
         "Svelte": 374
     },
     "Leomotors/Terminal-Video-Player": {

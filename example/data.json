@@ -143,10 +143,10 @@
         "Shell": 151
     },
     "Leomotors/portfolio-sv": {
-        "Svelte": 17625,
-        "CSS": 1811,
-        "TypeScript": 1721,
-        "JavaScript": 1537,
+        "Svelte": 12750,
+        "TypeScript": 1978,
+        "JavaScript": 1597,
+        "SCSS": 758,
         "HTML": 654
     },
     "Leomotors/rabbit-house-menu": {
@@ -217,8 +217,8 @@
         "JavaScript": 3100,
         "TypeScript": 1201,
         "HTML": 744,
-        "CSS": 442,
-        "Svelte": 374
+        "SCSS": 442,
+        "Svelte": 376
     },
     "Leomotors/Terminal-Video-Player": {
         "C++": 15424,

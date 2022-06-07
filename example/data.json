@@ -93,10 +93,10 @@
         "Q#": 924
     },
     "Leomotors/MIND-Is-Not-Difficult": {
-        "Svelte": 13318,
+        "Svelte": 15667,
+        "TypeScript": 2810,
         "JavaScript": 2186,
-        "TypeScript": 2040,
-        "CSS": 878,
+        "SCSS": 983,
         "HTML": 591
     },
     "Leomotors/Mini-Vector-Calculator": {
@@ -135,7 +135,7 @@
         "HTML": 255
     },
     "Leomotors/polynomial-generator": {
-        "TypeScript": 14851
+        "TypeScript": 15269
     },
     "Leomotors/Polynomial-Problems-Generator": {
         "C++": 33793,
@@ -143,7 +143,7 @@
         "Shell": 151
     },
     "Leomotors/portfolio-sv": {
-        "Svelte": 12750,
+        "Svelte": 12776,
         "TypeScript": 1978,
         "JavaScript": 1597,
         "SCSS": 758,
@@ -157,7 +157,7 @@
     },
     "Leomotors/resumette": {
         "Svelte": 7557,
-        "TypeScript": 5977,
+        "TypeScript": 6220,
         "JavaScript": 852,
         "HTML": 561,
         "CSS": 59

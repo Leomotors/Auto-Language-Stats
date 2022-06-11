@@ -27,7 +27,7 @@
     },
     "Leomotors/blog": {},
     "Leomotors/cminusminus": {
-        "TypeScript": 3167
+        "TypeScript": 5240
     },
     "Leomotors/cocoa-discord-utils": {
         "TypeScript": 78249,
@@ -66,7 +66,7 @@
         "Python": 6819
     },
     "Leomotors/golden-frame": {
-        "Python": 3530
+        "Python": 3899
     },
     "Leomotors/grab-krub": {
         "Svelte": 5267,
@@ -93,17 +93,17 @@
         "Q#": 924
     },
     "Leomotors/MIND-Is-Not-Difficult": {
-        "Svelte": 15667,
-        "TypeScript": 2810,
+        "Svelte": 20308,
+        "TypeScript": 3108,
         "JavaScript": 2186,
-        "SCSS": 983,
+        "SCSS": 1017,
         "HTML": 591
     },
     "Leomotors/Mini-Vector-Calculator": {
         "C": 34951
     },
     "Leomotors/music-bot": {
-        "TypeScript": 21917,
+        "TypeScript": 21958,
         "JavaScript": 1662
     },
     "Leomotors/My-ASCII-Adventure": {
@@ -143,7 +143,7 @@
         "Shell": 151
     },
     "Leomotors/portfolio-sv": {
-        "Svelte": 12776,
+        "Svelte": 12772,
         "TypeScript": 1978,
         "JavaScript": 1597,
         "SCSS": 758,
@@ -157,7 +157,7 @@
     },
     "Leomotors/resumette": {
         "Svelte": 7557,
-        "TypeScript": 6220,
+        "TypeScript": 6436,
         "JavaScript": 852,
         "HTML": 561,
         "CSS": 59

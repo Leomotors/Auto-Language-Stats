@@ -231,6 +231,11 @@
     "Leomotors/TOI17-Journey": {
         "C++": 4747
     },
+    "Leomotors/usagi-placeholder": {
+        "TypeScript": 3485,
+        "JavaScript": 1100,
+        "CSS": 59
+    },
     "Leomotors/Wave-Interference-Simulation": {
         "Python": 4847
     },

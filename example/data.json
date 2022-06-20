@@ -30,7 +30,7 @@
         "TypeScript": 5240
     },
     "Leomotors/cocoa-discord-utils": {
-        "TypeScript": 78249,
+        "TypeScript": 78736,
         "JavaScript": 706
     },
     "Leomotors/cocoa-grader": {
@@ -225,6 +225,7 @@
         "C": 3088,
         "CMake": 2069
     },
+    "Leomotors/test-on-production": {},
     "Leomotors/THIS-REPO-HAS-9-ISSUES": {
         "JavaScript": 930
     },

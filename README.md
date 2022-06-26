@@ -1,9 +1,9 @@
-# Auto-Language-Stats
+# Language-Stats
 
-Get Summary of Your Language Stats with Analyze (Coming Soon)
+Get Summary of Your Language Stats
 
-- ```npm run load``` to Load Data from GitHub API (**Don't forget to change Username to yours in loadData.js**)
+- ```GH_PAT="Your Token" yarn load``` to Load Data from GitHub API
 
-- ```npm run anal``` to start analysis and save into csv
+- ```yarn analyze``` to start analysis and save into csv
 
 You can look at example for output csv, I recommend putting it in Excel, convert to xlsx and create table to unlock ability to sort by each language!

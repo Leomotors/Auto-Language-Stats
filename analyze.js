@@ -5,7 +5,7 @@ import * as fs from "fs/promises";
 let langObj = {};
 
 try {
-  const buffer = await fs.readFile("data.json");
+  const buffer = await fs.readFile("data/data.json");
   langObj = JSON.parse(buffer.toString());
 } catch (err) {
   console.log("data.json not found");
@@ -33,8 +33,6 @@ sorted.map((lang) => {
 });
 
 console.log(langCounter);
-console.log(sorted);
-console.log(languages);
 
 let CSVWrite = "Repos,";
 
@@ -73,6 +71,6 @@ for (const lang of sorted)
   CSVWrite += `${((100 * lang[1]) / totalポイッ).toFixed(2)},`;
 CSVWrite += "100.00,\n";
 
-await fs.writeFile("lang.csv", CSVWrite);
+await fs.writeFile("data/lang.csv", CSVWrite);
 
 console.log("Convert to CSV Success");

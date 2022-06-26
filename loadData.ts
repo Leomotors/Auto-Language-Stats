@@ -1,5 +1,7 @@
 import fetch from "node-fetch";
 import fs from "node:fs/promises";
+import type { GetRepoLangsQuery } from "./generated/graphql";
+
 const query = /* GraphQL */ `
   query getRepoLangs {
     viewer {
@@ -24,26 +26,35 @@ const query = /* GraphQL */ `
     }
   }
 `;
-const result = (await fetch("https://api.github.com/graphql", {
+
+const result = (
+  (await fetch("https://api.github.com/graphql", {
     method: "POST",
     headers: {
-        Authorization: `Bearer ${process.env.GH_PAT}`,
+      Authorization: `Bearer ${process.env.GH_PAT}`,
     },
     body: JSON.stringify({ query }),
-}).then(async (res) => {
-    const obj = (await res.json());
+  }).then(async (res) => {
+    const obj = (await res.json()) as any;
     if (res.status >= 400) {
-        throw new Error(JSON.stringify(obj, null, 4));
+      throw new Error(JSON.stringify(obj, null, 4));
     }
     return obj;
-})).data;
+  })) as { data: unknown }
+).data as GetRepoLangsQuery;
+
 const repos = result.viewer.repositories.nodes ?? [];
-const data = {};
+
+const data: { [repoName: string]: { [langName: string]: number } } = {};
+
 for (const repo of repos) {
-    const repoLangs = {};
-    for (const edge of repo?.languages?.edges ?? []) {
-        repoLangs[edge.node.name] = edge.size;
-    }
-    data[repo.name] = repoLangs;
+  const repoLangs: typeof data[string] = {};
+
+  for (const edge of repo?.languages?.edges ?? []) {
+    repoLangs[edge!.node.name] = edge!.size;
+  }
+
+  data[repo!.name] = repoLangs;
 }
+
 await fs.writeFile("data/data.json", JSON.stringify(data, null, 2));

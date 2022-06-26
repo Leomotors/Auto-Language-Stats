@@ -28,11 +28,6 @@ jobs:
       - name: Convert to CSV
         run: yarn analyze
 
-      - name: Move to Data
-        run: |
-          mv data.json data
-          mv lang.csv data
-
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
         with:

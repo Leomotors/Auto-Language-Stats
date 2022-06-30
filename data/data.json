@@ -9,7 +9,8 @@
   },
   "Leomotors": {},
   "Salim-Bot": {
-    "TypeScript": 30848
+    "TypeScript": 32345,
+    "Shell": 177
   },
   "Polynomial-Problems-Generator": {
     "C++": 33793,
@@ -168,7 +169,7 @@
     "TeX": 24557
   },
   "cocoa-discord-utils": {
-    "TypeScript": 107371,
+    "TypeScript": 107359,
     "JavaScript": 706,
     "CSS": 701
   },

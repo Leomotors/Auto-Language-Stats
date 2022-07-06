@@ -169,10 +169,10 @@
     "TeX": 24557
   },
   "cocoa-discord-utils": {
-    "TypeScript": 107773,
-    "JavaScript": 981,
+    "TypeScript": 109142,
+    "JavaScript": 1004,
     "CSS": 761,
-    "Vue": 150
+    "Vue": 573
   },
   "simple-todo-app-tauri": {
     "HTML": 351,
@@ -265,5 +265,8 @@
     "TypeScript": 3485,
     "CSS": 59
   },
-  "test-on-production": {}
+  "test-on-production": {},
+  "waifu-bot": {
+    "TypeScript": 23773
+  }
 }

@@ -225,8 +225,8 @@
     "Q#": 924
   },
   "music-bot": {
-    "TypeScript": 22021,
-    "JavaScript": 1662
+    "TypeScript": 21690,
+    "JavaScript": 2091
   },
   "grab-krub": {
     "JavaScript": 3828,
@@ -241,8 +241,8 @@
   "resumette": {
     "HTML": 561,
     "JavaScript": 852,
-    "Svelte": 7557,
-    "TypeScript": 6436,
+    "Svelte": 7383,
+    "TypeScript": 6954,
     "CSS": 59
   },
   "blog": {},

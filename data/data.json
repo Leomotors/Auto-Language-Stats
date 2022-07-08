@@ -169,7 +169,7 @@
     "TeX": 24557
   },
   "cocoa-discord-utils": {
-    "TypeScript": 109142,
+    "TypeScript": 109152,
     "JavaScript": 1004,
     "CSS": 761,
     "Vue": 573
@@ -267,6 +267,6 @@
   },
   "test-on-production": {},
   "waifu-bot": {
-    "TypeScript": 23773
+    "TypeScript": 23799
   }
 }

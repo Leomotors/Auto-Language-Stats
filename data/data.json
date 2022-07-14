@@ -273,5 +273,6 @@
     "SCSS": 221,
     "Svelte": 188,
     "Shell": 150
-  }
+  },
+  "awesome-secured-config": {}
 }

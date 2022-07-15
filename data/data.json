@@ -267,8 +267,8 @@
   },
   "test-on-production": {},
   "waifu-bot": {
-    "TypeScript": 24504,
-    "JavaScript": 2513,
+    "TypeScript": 43449,
+    "JavaScript": 3508,
     "HTML": 404,
     "SCSS": 221,
     "Svelte": 188,

@@ -1,5 +1,7 @@
 # Language-Stats
 
+*Note*: language-stats is now moved to my pipeline monorepo [Leomotors/Leomotors](https://github.com/Leomotors/Leomotors)
+
 Get Summary of Your Language Stats
 
 - ```GH_PAT="Your Token" yarn load``` to Load Data from GitHub API
